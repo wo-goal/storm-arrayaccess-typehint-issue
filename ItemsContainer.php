@@ -21,7 +21,7 @@ class ItemsContainer extends Container
     }
 
     /**
-     * @param $items
+     * @param SomeItem $items
      */
     public function setItems($items)
     {
